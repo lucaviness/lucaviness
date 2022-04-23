@@ -1,1 +1,1 @@
-Based in San Francisco and currently working on [icaodle](www.icaodle.com).
+Based in San Francisco and currently working on [icaodle](http://icaodle.com/).
